@@ -1,0 +1,17 @@
+== Screen Share
+
+A simple sinatra app to share your computer screen with others.
+
+= Uses
+
+This is perfect for conferences with "less than perfect" projectors and/or large rooms. Presenters can just fire this app up and then anyone in the audience can see full resolution slides on their computers. 
+
+= Limitations
+
+Currently this is OS X only (server side) as it relies on screencapture. 
+
+There also seems to be a problem with Safari 4+ and jquery.imagefit
+
+= Authors
+
+Jordan Byron <jordan@ducksoupsoftware.com>
